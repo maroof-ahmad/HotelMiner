@@ -1,0 +1,146 @@
+{
+    "atmosphere": [
+        "dirty"
+    ], 
+    "payment": [
+        "whole"
+    ], 
+    "facilities": [
+        "bad"
+    ], 
+    "manager": [
+        "superb"
+    ], 
+    "rooms": [
+        "Small", 
+        "comfortable", 
+        "decent", 
+        "base", 
+        "noisy"
+    ], 
+    "towels": [
+        "dirty", 
+        "awful", 
+        "dirty"
+    ], 
+    "breakfast": [
+        "complimentary", 
+        "Complimentary", 
+        "free", 
+        "free"
+    ], 
+    "check": [
+        "ridiculous", 
+        "normal"
+    ], 
+    "hotels": [
+        "many", 
+        "such", 
+        "cheap", 
+        "other", 
+        "cheap", 
+        "other", 
+        "other", 
+        "cheap", 
+        "most"
+    ], 
+    "bathroom": [
+        "okay"
+    ], 
+    "guest": [
+        "few", 
+        "Asian"
+    ], 
+    "service": [
+        "Good", 
+        "worst"
+    ], 
+    "area": [
+        "shady", 
+        "unsafe"
+    ], 
+    "stayed": [
+        "clear"
+    ], 
+    "trip": [
+        "next"
+    ], 
+    "location": [
+        "nice"
+    ], 
+    "time": [
+        "tough"
+    ], 
+    "staff": [
+        "behaved", 
+        "RUDE"
+    ], 
+    "booking": [
+        "first"
+    ], 
+    "flight": [
+        "next"
+    ], 
+    "price": [
+        "mere"
+    ], 
+    "hotel": [
+        "nice", 
+        "Nice", 
+        "blue", 
+        "cheap", 
+        "such", 
+        "different", 
+        "such", 
+        "hygienic", 
+        "decent"
+    ], 
+    "stay": [
+        "Excellent", 
+        "exquisite", 
+        "short"
+    ], 
+    "water": [
+        "clean"
+    ], 
+    "services": [
+        "good"
+    ], 
+    "lobby": [
+        "creepy"
+    ], 
+    "room": [
+        "other", 
+        "good", 
+        "new", 
+        "good", 
+        "good"
+    ], 
+    "bed": [
+        "modern", 
+        "extra"
+    ], 
+    "shower": [
+        "quick"
+    ], 
+    "experience": [
+        "worst", 
+        "worst", 
+        "horrible", 
+        "horrible"
+    ], 
+    "airport": [
+        "domestic"
+    ], 
+    "place": [
+        "good", 
+        "full"
+    ], 
+    "night": [
+        "free"
+    ], 
+    "minutes": [
+        "few", 
+        "few"
+    ]
+}

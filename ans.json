@@ -1,0 +1,277 @@
+[
+    {
+        "taxi": [], 
+        "shop": [], 
+        "atmosphere": [
+            "dirty"
+        ], 
+        "office": [], 
+        "proximity": [], 
+        "rest": [], 
+        "facilities": [
+            "bad"
+        ], 
+        "manager": [
+            "superb"
+        ], 
+        "sleep": [], 
+        "rooms": [
+            "Small", 
+            "comfortable", 
+            "decent", 
+            "base", 
+            "noisy"
+        ], 
+        "dish": [], 
+        "staff": [
+            "behaved", 
+            "RUDE"
+        ], 
+        "tables": [], 
+        "music": [], 
+        "menu": [], 
+        "terminal": [], 
+        "offers": [], 
+        "location": [
+            "nice"
+        ], 
+        "ambience": [], 
+        "coffee": [], 
+        "evening": [], 
+        "food": [], 
+        "checkin": [], 
+        "overall": [], 
+        "lunch": [], 
+        "traffic": [], 
+        "desk": [], 
+        "front": [], 
+        "banquet": [], 
+        "course": [], 
+        "taxes": [], 
+        "morning": [], 
+        "check-in": [], 
+        "team": [], 
+        "security": [], 
+        "meal": [], 
+        "view": [], 
+        "bill": [], 
+        "deal": [], 
+        "house": [], 
+        "ambiance": [], 
+        "chef": [], 
+        "cost": [], 
+        "poolside": [], 
+        "transport": [], 
+        "out": [], 
+        "space": [], 
+        "cleanliness": [], 
+        "internet": [], 
+        "international": [], 
+        "staffs": [], 
+        "booking": [
+            "first"
+        ], 
+        "corridors": [], 
+        "drink": [], 
+        "tour": [], 
+        "night": [
+            "free"
+        ], 
+        "wi": [], 
+        "water": [
+            "clean"
+        ], 
+        "wi-fi": [], 
+        "care": [], 
+        "housekeeping": [], 
+        "metro": [], 
+        "restaurant": [], 
+        "waiter": [], 
+        "items": [], 
+        "employees": [], 
+        "experience": [
+            "worst", 
+            "worst", 
+            "horrible", 
+            "horrible"
+        ], 
+        "dinner": [], 
+        "place": [
+            "good", 
+            "full"
+        ], 
+        "smoke": [], 
+        "hospitality": [], 
+        "restaurants": [], 
+        "swimming": [], 
+        "family": [], 
+        "facility": [], 
+        "travelers": [], 
+        "transit": [], 
+        "bath": [], 
+        "guests": [], 
+        "towels": [
+            "dirty", 
+            "awful", 
+            "dirty"
+        ], 
+        "table": [], 
+        "quality": [], 
+        "hotels": [
+            "many", 
+            "such", 
+            "cheap", 
+            "other", 
+            "cheap", 
+            "other", 
+            "other", 
+            "cheap", 
+            "most"
+        ], 
+        "bathroom": [
+            "okay"
+        ], 
+        "management": [], 
+        "guest": [
+            "few", 
+            "Asian"
+        ], 
+        "service": [
+            "Good", 
+            "worst"
+        ], 
+        "area": [
+            "shady", 
+            "unsafe"
+        ], 
+        "system": [], 
+        "payment": [
+            "whole"
+        ], 
+        "beer": [], 
+        "amenities": [], 
+        "recommend": [], 
+        "call": [], 
+        "checkout": [], 
+        "hotel.": [], 
+        "door": [], 
+        "offer": [], 
+        "gym": [], 
+        "hotel": [
+            "nice", 
+            "Nice", 
+            "blue", 
+            "cheap", 
+            "such", 
+            "different", 
+            "such", 
+            "hygienic", 
+            "decent"
+        ], 
+        "phone": [], 
+        "smoking": [], 
+        "customer": [], 
+        "room": [
+            "other", 
+            "good", 
+            "new", 
+            "good", 
+            "good"
+        ], 
+        "car": [], 
+        "luggage": [], 
+        "budget": [], 
+        "bed": [
+            "modern", 
+            "extra"
+        ], 
+        "shower": [
+            "quick"
+        ], 
+        "near": [], 
+        "cab": [], 
+        "problem": [], 
+        "property": [], 
+        "minutes": [
+            "few", 
+            "few"
+        ], 
+        "toilet": [], 
+        "aerocity": [], 
+        "taste": [], 
+        "customers": [], 
+        "comfortable": [], 
+        "single": [], 
+        "policy": [], 
+        "spa": [], 
+        "tea": [], 
+        "flight": [
+            "next"
+        ], 
+        "breakfast": [
+            "complimentary", 
+            "Complimentary", 
+            "free", 
+            "free"
+        ], 
+        "cafe": [], 
+        "check": [
+            "ridiculous", 
+            "normal"
+        ], 
+        "dishes": [], 
+        "floor": [], 
+        "efficient": [], 
+        "convenient": [], 
+        "travel": [], 
+        "airport": [
+            "domestic"
+        ], 
+        "stayed": [
+            "clear"
+        ], 
+        "trip": [
+            "next"
+        ], 
+        "lounge": [], 
+        "dining": [], 
+        "luxury": [], 
+        "corridor": [], 
+        "party": [], 
+        "drinks": [], 
+        "smell": [], 
+        "laundry": [], 
+        "pillows": [], 
+        "price": [
+            "mere"
+        ], 
+        "welcome": [], 
+        "buffet": [], 
+        "stay": [
+            "Excellent", 
+            "exquisite", 
+            "short"
+        ], 
+        "services": [
+            "good"
+        ], 
+        "reservation": [], 
+        "lobby": [
+            "creepy"
+        ], 
+        "pool": [], 
+        "complimentary": [], 
+        "toiletries": [], 
+        "wifi": [], 
+        "overnight": [], 
+        "beds": [], 
+        "linen": [], 
+        "reception": [], 
+        "time": [
+            "tough"
+        ], 
+        "professional": [], 
+        "accommodating": [], 
+        "drivers": []
+    }
+]
